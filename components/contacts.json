@@ -1,3 +1,20 @@
 {
-    "contacts": []
+  "contacts": [
+    {
+      "id": 1,
+      "first_name": "Rehan",
+      "last_name": "uddin",
+      "email": "Rehan@example.com",
+      "phone": "123-456-7890",
+      "notes": "This is Rehan."
+    },
+    {
+      "id": 2,
+      "first_name": "Uday",
+      "last_name": "kumar",
+      "email": "uday@example.com",
+      "phone": "987-654-3210",
+      "notes": "This is Uday."
+    }
+  ]
 }
